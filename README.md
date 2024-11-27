@@ -1,6 +1,6 @@
 # Python GitHub bot
 
-This repository was built as a part of a course for LinkedIn Learning on Building GitHub bots(link to be attached).
+This repository was built as part of a LinkedIn Learning course on [Building GitHub Bots](https://www.linkedin.com/learning/building-github-bots). Please refer to the [Build a GitHub bot using Python](https://www.linkedin.com/learning/building-github-bots/development-environment-setup) section to learn more about how this was built. 
 
 ## Build and Run
 
